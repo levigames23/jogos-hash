@@ -49,7 +49,11 @@ cd hasher
 
 4 python2 hash.py -u
 
-5 python2 hash.py
+5 python2 hash.py 
+
+Faça sua doação para o projeto ei Bitcoin   1LgfbBrMp34659BtKma8m4hfmsCuqkJ8iK
+
+
 
 ```
 # Screenshot
