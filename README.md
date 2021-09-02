@@ -51,7 +51,7 @@ cd hasher
 
 5 python2 hash.py 
 
-Faça sua doação para o projeto ei Bitcoin   1LgfbBrMp34659BtKma8m4hfmsCuqkJ8iK
+Faça sua doação para o projeto ei Bitcoin :)     1LgfbBrMp34659BtKma8m4hfmsCuqkJ8iK
 
 
 
