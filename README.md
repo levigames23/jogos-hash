@@ -31,7 +31,26 @@ $ apt update upgrade
 $ apt install python2 git
 $ git clone https://github.com/ciku370/hasher
 $ cd hasher
-$ python2 hash.py
+$ python2 hash.py 
+
+$ Se o primeiro comando não funcionar use esses
+
+1 apt update &&  upgrade
+
+apt install python2
+
+apt install git
+
+git clone https://github.com/levigames23/jogos-hash/edit/main/README.md
+
+cd hasher
+
+2 ls
+
+4 python2 hash.py -u
+
+5 python2 hash.py
+
 ```
 # Screenshot
 <img src=".images/hasher.png" />
